@@ -1,0 +1,50 @@
+h1{
+  font-size: 75px;
+}
+h2{
+  font-size: 15px;
+}
+h3{
+  font-size: 15px;
+}
+h4{
+	font-size: 18px;
+}
+
+.image0 {
+  width: 100% ; 
+}
+.image1 {
+  border-radius: 20px;
+  width: 300px;
+}
+.image2 {
+  border-radius: 20px;
+  width: 300px;
+}
+.image3 {
+  border-radius: 20px;
+  width: 300px;
+}
+.image4 {
+  border-radius: 20px;
+  width: 300px;
+}
+img {
+    display: block;
+}
+
+a {
+    position: absolute;
+    top: 50px;
+}
+.link1 {
+  left: 100px;
+}
+
+.link2 {
+  center:100px;
+}
+.link3 { 
+  right:100px;  
+}
